@@ -74,3 +74,8 @@ Future evaluation will use documented test cases and measured pipeline behavior.
 
 This is an educational portfolio project. It does not connect to real banking systems, verify real-world fraud, or make actual lending decisions. Risk flags are illustrative and should not be used to assess real applicants.
 
+## Test Results
+
+All 15 automated tests pass successfully.
+
+![Automated test results](docs/screenshots/tests-passing.png)
